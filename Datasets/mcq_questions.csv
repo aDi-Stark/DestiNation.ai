@@ -1,0 +1,19 @@
+Domain,Subject,Question,OptionA,OptionB,OptionC,OptionD,CorrectOption
+Engineering,Computer Science,What is the time complexity of a binary search algorithm?,O(n),O(log n),O(n^2),O(n log n),B
+Engineering,Computer Science,Which data structure uses FIFO principle?,Stack,Queue,Array,LinkedList,B
+Engineering,Computer Science,What does HTTP stand for?,HyperText Transfer Product,HyperText Transfer Protocol,Hyper Transfer Protocol,HighText Transfer Protocol,B
+Engineering,Electrical,What is the unit of electrical resistance?,Ohm,Volt,Ampere,Watt,A
+Engineering,Electrical,Which law states that the current through a conductor between two points is directly proportional to the voltage across the two points?,Ohm's Law,Faraday's Law,Maxwell's Law,Gauss's Law,A
+Engineering,Electrical,What is used to measure the electrical power?,Voltmeter,Ammeter,Wattmeter,Resistor,C
+Medical,Biology,What is the powerhouse of the cell?,Ribosome,Mitochondria,Nucleus,Chloroplast,B
+Medical,Biology,What is the process by which plants make their food?,Photosynthesis,Respiration,Transpiration,Fermentation,A
+Medical,Biology,Which blood cells are responsible for fighting infections?,Red Blood Cells,White Blood Cells,Platelets,Plasma Cells,B
+Medical,Anatomy,What part of the human body is the mandible?,Arm,Leg,Jaw,Skull,C
+Medical,Anatomy,Which organ is responsible for detoxification?,Liver,Kidney,Heart,Lungs,A
+Medical,Anatomy,What is the largest organ of the human body?,Heart,Skin,Liver,Kidney,B
+Engineering,Mechanical,What is the study of fluids in motion?,Dynamics,Fluid Mechanics,Thermodynamics,Kinematics,B
+Engineering,Mechanical,Which law explains the relationship between the pressure and volume of a gas at constant temperature?,Boyle's Law,Charles's Law,Avogadro's Law,Gay-Lussac's Law,A
+Engineering,Mechanical,What is the unit of force?,Newton,Joule,Watt,Pascal,A
+Medical,Pharmacology,What is the study of drugs and their actions on the body?,Toxicology,Pharmacology,Pathology,Biology,B
+Medical,Pharmacology,Which medication is used to treat bacterial infections?,Aspirin,Ibuprofen,Amoxicillin,Acetaminophen,C
+Medical,Pharmacology,What is the term for a drug that relieves pain?,Antipyretic,Analgesic,Antihistamine,Antibiotic,B
